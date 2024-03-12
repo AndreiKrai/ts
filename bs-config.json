@@ -1,0 +1,6 @@
+{
+  "server": {
+    "baseDir": "./"
+  },
+  "startPath": "/index.html"
+}
